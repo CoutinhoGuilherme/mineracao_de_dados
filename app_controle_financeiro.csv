@@ -1,0 +1,501 @@
+id_transacao,tipo,categoria,valor,meio_pagamento,data_transacao
+1,Despesa,Saúde,1930.29,Dinheiro,2023-07-10
+2,Despesa,Lazer,1568.54,Dinheiro,2023-02-08
+3,Receita,Moradia,1078.88,Dinheiro,2023-09-28
+4,Receita,Educação,534.22,Dinheiro,2023-09-22
+5,Receita,Alimentação,77.27,Dinheiro,2023-10-03
+6,Despesa,Lazer,1676.27,Dinheiro,2023-11-28
+7,Despesa,Saúde,307.48,Dinheiro,2023-07-07
+8,Receita,Lazer,1210.04,Cartão Crédito,2023-09-04
+9,Receita,Educação,1993.57,Cartão Crédito,2023-05-09
+10,Receita,Transporte,1853.05,Dinheiro,2023-07-20
+11,Receita,Educação,713.92,Cartão Débito,2023-10-11
+12,Despesa,Saúde,696.15,Transferência,2023-06-01
+13,Despesa,Lazer,1824.81,Dinheiro,2023-04-21
+14,Despesa,Lazer,383.03,Cartão Crédito,2023-09-22
+15,Receita,Transporte,1143.46,Dinheiro,2023-06-20
+16,Despesa,Educação,665.8,Cartão Crédito,2023-01-09
+17,Receita,Alimentação,1221.05,Cartão Débito,2023-09-09
+18,Receita,Lazer,489.06,Cartão Débito,2023-03-16
+19,Despesa,Transporte,1491.43,Cartão Crédito,2023-06-19
+20,Receita,Saúde,243.24,Cartão Crédito,2023-09-30
+21,Receita,Lazer,30.96,Dinheiro,2023-09-08
+22,Receita,Alimentação,187.87,Cartão Débito,2023-07-29
+23,Receita,Moradia,1169.49,Cartão Crédito,2023-03-06
+24,Receita,Alimentação,494.48,Cartão Crédito,2023-09-12
+25,Despesa,Lazer,971.24,Cartão Débito,2023-10-15
+26,Receita,Educação,49.34,Cartão Crédito,2023-08-29
+27,Despesa,Alimentação,454.76,Cartão Crédito,2023-12-24
+28,Receita,Transporte,859.53,Cartão Crédito,2023-01-08
+29,Receita,Transporte,1206.49,Cartão Crédito,2023-04-22
+30,Despesa,Saúde,821.1,Dinheiro,2023-09-02
+31,Despesa,Moradia,1935.15,Transferência,2023-03-20
+32,Despesa,Lazer,925.6,Cartão Débito,2023-10-05
+33,Receita,Moradia,1247.78,Dinheiro,2023-08-08
+34,Despesa,Moradia,447.04,Cartão Crédito,2023-06-18
+35,Despesa,Lazer,1786.87,Transferência,2023-05-20
+36,Despesa,Transporte,1650.21,Dinheiro,2023-11-22
+37,Receita,Lazer,302.73,Transferência,2023-06-09
+38,Despesa,Lazer,1347.88,Transferência,2023-02-07
+39,Despesa,Lazer,45.92,Transferência,2023-02-07
+40,Despesa,Saúde,560.18,Cartão Débito,2023-08-08
+41,Despesa,Educação,717.45,Transferência,2023-11-28
+42,Receita,Moradia,258.69,Cartão Crédito,2023-08-01
+43,Despesa,Transporte,654.73,Cartão Débito,2023-09-18
+44,Despesa,Transporte,315.08,Cartão Débito,2023-05-24
+45,Despesa,Educação,1356.15,Transferência,2023-03-20
+46,Despesa,Alimentação,228.98,Cartão Crédito,2023-05-23
+47,Despesa,Transporte,48.39,Cartão Crédito,2023-07-02
+48,Despesa,Saúde,238.0,Transferência,2023-06-26
+49,Receita,Alimentação,204.11,Cartão Débito,2023-04-19
+50,Receita,Transporte,1325.34,Dinheiro,2023-06-18
+51,Receita,Lazer,752.2,Transferência,2023-10-16
+52,Despesa,Moradia,86.18,Dinheiro,2023-06-28
+53,Receita,Lazer,433.74,Cartão Crédito,2023-04-15
+54,Despesa,Transporte,101.08,Cartão Crédito,2023-01-18
+55,Receita,Moradia,1799.25,Cartão Débito,2023-04-28
+56,Despesa,Educação,1101.41,Cartão Débito,2023-09-07
+57,Receita,Lazer,411.62,Cartão Débito,2023-10-01
+58,Despesa,Lazer,1380.16,Cartão Crédito,2023-06-24
+59,Receita,Moradia,975.9,Cartão Crédito,2023-10-08
+60,Receita,Alimentação,1702.24,Transferência,2023-01-28
+61,Receita,Lazer,154.8,Transferência,2023-05-20
+62,Receita,Educação,847.82,Cartão Débito,2023-10-02
+63,Despesa,Saúde,677.49,Cartão Débito,2023-04-17
+64,Despesa,Transporte,1970.88,Dinheiro,2023-07-13
+65,Despesa,Educação,660.69,Cartão Crédito,2023-05-11
+66,Despesa,Educação,1908.79,Cartão Crédito,2023-07-06
+67,Receita,Transporte,818.2,Dinheiro,2023-11-09
+68,Receita,Transporte,1557.44,Cartão Débito,2023-01-05
+69,Receita,Saúde,1546.55,Dinheiro,2023-08-08
+70,Despesa,Alimentação,656.14,Transferência,2023-06-24
+71,Despesa,Moradia,964.71,Cartão Crédito,2023-08-27
+72,Receita,Lazer,1440.75,Transferência,2023-05-27
+73,Despesa,Saúde,1885.87,Cartão Crédito,2023-07-28
+74,Receita,Lazer,1818.11,Dinheiro,2023-01-30
+75,Receita,Alimentação,129.27,Dinheiro,2023-07-02
+76,Receita,Moradia,649.65,Transferência,2023-04-30
+77,Receita,Moradia,1452.72,Cartão Crédito,2023-03-05
+78,Despesa,Lazer,120.66,Transferência,2023-03-09
+79,Receita,Educação,493.43,Cartão Crédito,2023-03-16
+80,Despesa,Moradia,1000.48,Transferência,2023-01-31
+81,Despesa,Saúde,1305.51,Cartão Crédito,2023-02-11
+82,Despesa,Saúde,29.61,Cartão Débito,2023-09-18
+83,Despesa,Lazer,1025.38,Cartão Crédito,2023-08-06
+84,Despesa,Alimentação,1127.19,Transferência,2023-08-21
+85,Receita,Educação,1256.25,Cartão Crédito,2023-10-18
+86,Receita,Saúde,397.37,Cartão Débito,2023-02-14
+87,Receita,Educação,424.45,Transferência,2023-02-18
+88,Despesa,Saúde,154.66,Cartão Crédito,2023-09-16
+89,Despesa,Saúde,1598.22,Cartão Débito,2023-06-10
+90,Receita,Transporte,1577.63,Dinheiro,2023-06-06
+91,Despesa,Educação,811.8,Cartão Débito,2023-05-14
+92,Receita,Alimentação,1943.93,Cartão Débito,2023-08-14
+93,Despesa,Moradia,652.24,Dinheiro,2023-12-20
+94,Receita,Lazer,1812.45,Cartão Débito,2023-03-13
+95,Despesa,Moradia,1989.88,Cartão Crédito,2023-06-12
+96,Receita,Transporte,1268.65,Dinheiro,2023-12-20
+97,Despesa,Alimentação,1862.94,Cartão Débito,2023-06-04
+98,Receita,Alimentação,1196.62,Transferência,2023-05-14
+99,Receita,Lazer,244.92,Cartão Débito,2023-06-27
+100,Receita,Educação,1492.71,Cartão Crédito,2023-08-29
+101,Despesa,Alimentação,1967.62,Cartão Débito,2023-03-19
+102,Receita,Transporte,1573.92,Cartão Crédito,2023-05-31
+103,Despesa,Lazer,1479.19,Cartão Débito,2023-08-01
+104,Receita,Lazer,455.96,Cartão Débito,2023-08-17
+105,Receita,Moradia,1874.43,Cartão Crédito,2023-07-13
+106,Despesa,Alimentação,1536.55,Cartão Crédito,2023-05-10
+107,Receita,Moradia,1651.49,Cartão Débito,2023-06-29
+108,Despesa,Moradia,176.72,Cartão Débito,2023-08-27
+109,Despesa,Saúde,156.99,Dinheiro,2023-04-29
+110,Despesa,Lazer,1973.63,Cartão Débito,2023-10-12
+111,Despesa,Moradia,729.9,Cartão Débito,2023-10-03
+112,Despesa,Transporte,1406.72,Cartão Crédito,2023-01-12
+113,Receita,Alimentação,496.26,Cartão Débito,2023-10-12
+114,Receita,Alimentação,1137.88,Transferência,2023-02-09
+115,Receita,Lazer,613.8,Cartão Débito,2023-07-26
+116,Despesa,Educação,1664.77,Cartão Débito,2023-05-24
+117,Receita,Alimentação,702.31,Cartão Crédito,2023-12-11
+118,Receita,Moradia,1366.17,Cartão Crédito,2023-10-03
+119,Receita,Educação,1000.88,Dinheiro,2023-04-06
+120,Receita,Educação,400.65,Dinheiro,2023-05-13
+121,Receita,Educação,286.9,Dinheiro,2023-12-25
+122,Receita,Saúde,1986.95,Dinheiro,2023-10-10
+123,Receita,Educação,1422.7,Cartão Crédito,2023-05-26
+124,Despesa,Saúde,819.12,Cartão Crédito,2023-05-26
+125,Despesa,Moradia,55.07,Cartão Débito,2023-02-23
+126,Receita,Moradia,425.66,Cartão Crédito,2023-01-21
+127,Despesa,Moradia,1336.77,Cartão Débito,2023-12-21
+128,Receita,Alimentação,772.48,Transferência,2023-02-09
+129,Despesa,Lazer,292.27,Cartão Crédito,2023-01-03
+130,Despesa,Lazer,537.67,Cartão Débito,2023-11-10
+131,Despesa,Educação,500.38,Cartão Débito,2023-12-03
+132,Despesa,Transporte,701.92,Transferência,2023-07-07
+133,Receita,Saúde,1605.65,Dinheiro,2023-04-02
+134,Receita,Alimentação,20.48,Dinheiro,2023-12-27
+135,Receita,Lazer,587.34,Transferência,2023-01-02
+136,Receita,Saúde,1744.99,Cartão Crédito,2023-09-27
+137,Despesa,Moradia,1590.92,Cartão Crédito,2023-10-22
+138,Receita,Alimentação,42.13,Cartão Débito,2023-08-08
+139,Despesa,Transporte,1196.58,Transferência,2023-11-27
+140,Despesa,Moradia,1554.03,Cartão Débito,2023-11-13
+141,Despesa,Transporte,180.08,Dinheiro,2023-09-27
+142,Receita,Saúde,1714.8,Cartão Débito,2023-01-02
+143,Despesa,Lazer,1354.95,Transferência,2023-07-03
+144,Receita,Lazer,1478.56,Dinheiro,2023-02-01
+145,Despesa,Educação,1761.6,Cartão Crédito,2023-02-03
+146,Receita,Transporte,896.67,Transferência,2023-09-03
+147,Despesa,Transporte,1224.5,Cartão Débito,2023-10-03
+148,Receita,Transporte,1105.37,Cartão Crédito,2023-01-21
+149,Despesa,Lazer,184.4,Transferência,2023-11-13
+150,Receita,Saúde,723.57,Cartão Débito,2023-09-21
+151,Despesa,Moradia,23.05,Dinheiro,2023-01-23
+152,Receita,Transporte,1167.42,Dinheiro,2023-10-19
+153,Despesa,Transporte,689.04,Dinheiro,2023-01-06
+154,Receita,Lazer,289.57,Transferência,2023-01-17
+155,Receita,Moradia,1547.81,Cartão Débito,2023-07-22
+156,Despesa,Transporte,1409.4,Cartão Crédito,2023-07-28
+157,Receita,Transporte,1865.05,Transferência,2023-05-31
+158,Receita,Alimentação,1766.92,Transferência,2023-12-24
+159,Despesa,Lazer,1912.6,Cartão Crédito,2023-03-30
+160,Receita,Educação,1141.38,Transferência,2023-07-25
+161,Despesa,Lazer,677.47,Dinheiro,2023-11-02
+162,Despesa,Educação,1958.62,Dinheiro,2023-05-30
+163,Despesa,Educação,391.05,Cartão Débito,2023-01-07
+164,Despesa,Educação,33.31,Dinheiro,2023-08-23
+165,Receita,Lazer,1249.5,Cartão Débito,2023-12-22
+166,Despesa,Moradia,873.76,Transferência,2023-04-30
+167,Despesa,Transporte,770.01,Cartão Débito,2023-07-27
+168,Despesa,Saúde,982.11,Cartão Crédito,2023-02-28
+169,Despesa,Alimentação,1387.24,Cartão Débito,2023-05-03
+170,Despesa,Moradia,472.42,Cartão Crédito,2023-11-20
+171,Receita,Alimentação,1665.47,Cartão Crédito,2023-04-09
+172,Receita,Educação,1154.2,Cartão Débito,2023-10-11
+173,Despesa,Educação,1308.18,Dinheiro,2023-10-13
+174,Despesa,Educação,1657.22,Cartão Crédito,2023-11-11
+175,Despesa,Saúde,686.35,Dinheiro,2023-09-08
+176,Despesa,Educação,552.87,Transferência,2023-09-17
+177,Receita,Transporte,1475.55,Cartão Crédito,2023-08-08
+178,Despesa,Educação,1508.39,Cartão Crédito,2023-04-17
+179,Receita,Transporte,231.4,Cartão Crédito,2023-09-02
+180,Receita,Lazer,981.07,Cartão Débito,2023-02-27
+181,Despesa,Transporte,362.46,Transferência,2023-05-12
+182,Despesa,Transporte,1561.72,Cartão Crédito,2023-06-02
+183,Receita,Moradia,1239.82,Transferência,2023-10-04
+184,Receita,Moradia,1672.22,Dinheiro,2023-01-02
+185,Despesa,Transporte,1774.29,Dinheiro,2023-06-03
+186,Receita,Alimentação,130.41,Transferência,2023-03-22
+187,Despesa,Educação,671.17,Dinheiro,2023-03-26
+188,Despesa,Transporte,361.06,Cartão Crédito,2023-08-06
+189,Despesa,Transporte,1337.28,Dinheiro,2023-04-29
+190,Receita,Educação,990.74,Transferência,2023-01-30
+191,Receita,Lazer,1563.51,Cartão Débito,2023-08-10
+192,Receita,Transporte,1911.36,Cartão Débito,2023-06-06
+193,Receita,Alimentação,58.73,Dinheiro,2023-06-08
+194,Despesa,Saúde,628.94,Cartão Crédito,2023-03-05
+195,Receita,Lazer,1259.01,Cartão Débito,2023-06-25
+196,Receita,Saúde,1509.55,Cartão Crédito,2023-02-28
+197,Receita,Moradia,1025.96,Cartão Crédito,2023-08-05
+198,Receita,Educação,568.86,Dinheiro,2023-10-12
+199,Receita,Lazer,1739.87,Transferência,2023-10-31
+200,Despesa,Moradia,1659.86,Cartão Crédito,2023-10-26
+201,Despesa,Educação,406.63,Cartão Crédito,2023-10-19
+202,Receita,Educação,809.79,Cartão Crédito,2023-10-08
+203,Receita,Lazer,158.12,Transferência,2023-05-26
+204,Despesa,Transporte,1678.91,Cartão Débito,2023-05-28
+205,Receita,Saúde,73.74,Cartão Crédito,2023-04-02
+206,Despesa,Alimentação,1281.13,Dinheiro,2023-04-13
+207,Receita,Saúde,1296.83,Transferência,2023-12-24
+208,Despesa,Alimentação,93.94,Cartão Crédito,2023-11-06
+209,Receita,Lazer,1642.82,Cartão Crédito,2023-09-08
+210,Despesa,Saúde,1516.65,Cartão Débito,2023-07-22
+211,Despesa,Educação,634.69,Transferência,2023-02-17
+212,Despesa,Educação,1277.63,Transferência,2023-06-21
+213,Receita,Alimentação,1843.19,Cartão Débito,2023-09-23
+214,Despesa,Lazer,490.69,Dinheiro,2023-07-05
+215,Despesa,Moradia,1206.03,Transferência,2023-01-11
+216,Despesa,Transporte,1651.33,Transferência,2023-06-18
+217,Receita,Saúde,1555.64,Cartão Crédito,2023-07-09
+218,Receita,Alimentação,170.12,Transferência,2023-09-11
+219,Despesa,Moradia,603.38,Transferência,2023-07-16
+220,Despesa,Lazer,1739.04,Cartão Crédito,2023-03-14
+221,Despesa,Transporte,639.65,Cartão Débito,2023-06-14
+222,Despesa,Saúde,847.77,Dinheiro,2023-10-22
+223,Receita,Alimentação,626.31,Cartão Débito,2023-12-13
+224,Despesa,Educação,41.41,Dinheiro,2023-10-14
+225,Receita,Moradia,96.56,Dinheiro,2023-05-19
+226,Despesa,Moradia,1240.96,Cartão Débito,2023-08-04
+227,Receita,Saúde,323.54,Cartão Crédito,2023-02-06
+228,Despesa,Saúde,290.54,Transferência,2023-01-14
+229,Despesa,Educação,462.0,Transferência,2023-09-30
+230,Receita,Transporte,1302.3,Cartão Crédito,2023-08-10
+231,Receita,Alimentação,1782.02,Cartão Débito,2023-07-21
+232,Receita,Moradia,1699.83,Cartão Crédito,2023-05-26
+233,Receita,Transporte,217.22,Transferência,2023-08-10
+234,Receita,Transporte,697.01,Cartão Crédito,2023-06-27
+235,Despesa,Alimentação,84.94,Dinheiro,2023-07-16
+236,Receita,Transporte,478.26,Transferência,2023-07-22
+237,Receita,Saúde,543.67,Cartão Débito,2023-09-09
+238,Despesa,Alimentação,284.91,Cartão Crédito,2023-03-15
+239,Receita,Transporte,1893.88,Dinheiro,2023-04-22
+240,Receita,Lazer,924.9,Dinheiro,2023-07-25
+241,Receita,Saúde,1821.89,Cartão Débito,2023-08-13
+242,Despesa,Educação,1986.68,Cartão Crédito,2023-11-14
+243,Receita,Saúde,1050.32,Cartão Débito,2023-06-28
+244,Receita,Lazer,195.5,Cartão Débito,2023-02-24
+245,Receita,Lazer,348.34,Transferência,2023-12-17
+246,Receita,Educação,1116.82,Dinheiro,2023-01-12
+247,Despesa,Saúde,527.88,Cartão Débito,2023-12-08
+248,Despesa,Saúde,632.05,Cartão Débito,2023-04-08
+249,Receita,Alimentação,1019.58,Cartão Crédito,2023-09-15
+250,Despesa,Transporte,1774.17,Transferência,2023-06-02
+251,Receita,Moradia,1132.12,Dinheiro,2023-07-23
+252,Receita,Educação,591.71,Cartão Crédito,2023-02-23
+253,Despesa,Educação,1993.1,Transferência,2023-01-17
+254,Receita,Moradia,218.21,Cartão Débito,2023-10-18
+255,Receita,Lazer,881.29,Cartão Débito,2023-02-23
+256,Despesa,Saúde,383.82,Cartão Crédito,2023-07-18
+257,Despesa,Lazer,1910.93,Cartão Débito,2023-07-31
+258,Despesa,Moradia,645.93,Cartão Débito,2023-11-18
+259,Despesa,Lazer,184.18,Cartão Crédito,2023-11-07
+260,Despesa,Educação,1359.46,Cartão Crédito,2023-12-08
+261,Receita,Alimentação,471.68,Cartão Débito,2023-06-12
+262,Despesa,Educação,889.03,Dinheiro,2023-05-14
+263,Receita,Moradia,1342.37,Dinheiro,2023-03-16
+264,Despesa,Lazer,61.2,Cartão Débito,2023-02-27
+265,Receita,Alimentação,98.74,Transferência,2023-10-16
+266,Despesa,Lazer,610.19,Transferência,2023-04-30
+267,Despesa,Alimentação,1493.62,Cartão Débito,2023-08-23
+268,Despesa,Educação,1120.33,Dinheiro,2023-10-08
+269,Despesa,Saúde,169.67,Dinheiro,2023-01-27
+270,Despesa,Lazer,205.97,Cartão Débito,2023-04-25
+271,Despesa,Educação,864.59,Dinheiro,2023-09-11
+272,Despesa,Educação,1086.78,Cartão Débito,2023-05-18
+273,Despesa,Educação,781.15,Dinheiro,2023-02-13
+274,Receita,Saúde,1117.38,Dinheiro,2023-04-25
+275,Despesa,Moradia,1174.09,Cartão Débito,2023-09-23
+276,Despesa,Moradia,459.51,Dinheiro,2023-01-16
+277,Receita,Educação,130.15,Cartão Débito,2023-04-16
+278,Receita,Moradia,1609.57,Cartão Débito,2023-11-30
+279,Despesa,Transporte,1948.25,Cartão Débito,2023-09-16
+280,Receita,Moradia,1456.86,Transferência,2023-03-17
+281,Despesa,Alimentação,316.03,Transferência,2023-07-23
+282,Receita,Transporte,1550.1,Transferência,2023-08-21
+283,Despesa,Moradia,1784.97,Dinheiro,2023-08-07
+284,Despesa,Alimentação,1024.28,Transferência,2023-01-27
+285,Receita,Alimentação,204.89,Cartão Débito,2023-08-21
+286,Receita,Alimentação,688.88,Dinheiro,2023-05-25
+287,Receita,Moradia,408.47,Cartão Crédito,2023-05-23
+288,Despesa,Saúde,1617.23,Dinheiro,2023-04-21
+289,Despesa,Alimentação,835.55,Transferência,2023-02-17
+290,Despesa,Moradia,831.41,Cartão Débito,2023-06-09
+291,Despesa,Educação,538.03,Cartão Crédito,2023-01-18
+292,Despesa,Saúde,1953.75,Transferência,2023-11-27
+293,Despesa,Moradia,1757.06,Cartão Crédito,2023-04-29
+294,Receita,Educação,649.54,Cartão Débito,2023-09-23
+295,Despesa,Saúde,403.56,Transferência,2023-10-10
+296,Receita,Alimentação,237.58,Dinheiro,2023-08-12
+297,Despesa,Moradia,566.11,Transferência,2023-01-22
+298,Receita,Alimentação,1353.19,Cartão Crédito,2023-04-13
+299,Despesa,Transporte,1541.68,Cartão Débito,2023-09-03
+300,Despesa,Transporte,902.95,Cartão Crédito,2023-04-15
+301,Despesa,Educação,1559.99,Cartão Débito,2023-12-21
+302,Despesa,Transporte,1910.67,Cartão Crédito,2023-05-23
+303,Receita,Lazer,112.94,Cartão Crédito,2023-12-10
+304,Receita,Transporte,340.55,Dinheiro,2023-08-19
+305,Receita,Transporte,1355.0,Cartão Crédito,2023-07-11
+306,Despesa,Moradia,263.24,Transferência,2023-03-20
+307,Despesa,Transporte,1811.4,Cartão Débito,2023-02-19
+308,Despesa,Transporte,71.48,Cartão Débito,2023-04-03
+309,Despesa,Moradia,1872.52,Dinheiro,2023-06-09
+310,Despesa,Transporte,767.2,Cartão Débito,2023-07-03
+311,Receita,Educação,1461.06,Dinheiro,2023-04-17
+312,Despesa,Alimentação,33.47,Dinheiro,2023-12-23
+313,Receita,Alimentação,1670.15,Cartão Crédito,2023-02-05
+314,Despesa,Alimentação,1274.23,Cartão Débito,2023-06-30
+315,Despesa,Moradia,264.64,Cartão Crédito,2023-01-28
+316,Despesa,Saúde,1485.7,Cartão Débito,2023-01-14
+317,Despesa,Educação,474.69,Dinheiro,2023-10-22
+318,Receita,Alimentação,1630.9,Cartão Crédito,2023-10-02
+319,Receita,Alimentação,350.44,Cartão Crédito,2023-07-12
+320,Receita,Educação,1762.21,Cartão Crédito,2023-02-01
+321,Receita,Saúde,1348.89,Transferência,2023-07-09
+322,Receita,Alimentação,518.18,Transferência,2023-03-13
+323,Receita,Moradia,1982.29,Cartão Débito,2023-01-13
+324,Despesa,Moradia,1912.98,Transferência,2023-02-27
+325,Receita,Educação,1554.05,Transferência,2023-06-05
+326,Despesa,Moradia,819.56,Dinheiro,2023-02-21
+327,Receita,Transporte,568.49,Dinheiro,2023-05-19
+328,Receita,Saúde,1888.16,Transferência,2023-05-21
+329,Receita,Saúde,433.84,Transferência,2023-10-27
+330,Despesa,Educação,139.9,Cartão Débito,2023-04-10
+331,Receita,Transporte,103.54,Transferência,2023-07-06
+332,Despesa,Transporte,1072.68,Cartão Débito,2023-08-31
+333,Receita,Educação,122.33,Transferência,2023-10-13
+334,Despesa,Saúde,397.62,Transferência,2023-04-03
+335,Receita,Moradia,678.87,Cartão Débito,2023-08-21
+336,Receita,Transporte,503.62,Transferência,2023-05-11
+337,Receita,Transporte,719.61,Transferência,2023-04-01
+338,Receita,Lazer,108.01,Transferência,2023-01-13
+339,Despesa,Educação,399.73,Dinheiro,2023-12-19
+340,Receita,Educação,413.58,Cartão Crédito,2023-10-17
+341,Receita,Lazer,1383.68,Dinheiro,2023-04-26
+342,Receita,Lazer,239.84,Cartão Débito,2023-07-30
+343,Despesa,Transporte,355.33,Transferência,2023-09-29
+344,Despesa,Alimentação,1066.61,Cartão Crédito,2023-03-18
+345,Receita,Lazer,602.33,Dinheiro,2023-11-17
+346,Despesa,Educação,1775.97,Cartão Crédito,2023-07-27
+347,Receita,Transporte,1636.34,Dinheiro,2023-05-03
+348,Despesa,Educação,1382.49,Transferência,2023-06-07
+349,Receita,Alimentação,835.5,Dinheiro,2023-04-06
+350,Despesa,Saúde,1993.97,Dinheiro,2023-02-21
+351,Receita,Educação,1204.72,Dinheiro,2023-11-15
+352,Receita,Educação,1713.24,Cartão Débito,2023-12-31
+353,Despesa,Saúde,790.68,Cartão Débito,2023-12-17
+354,Receita,Moradia,1459.18,Cartão Crédito,2023-04-17
+355,Receita,Saúde,928.9,Dinheiro,2023-08-07
+356,Receita,Lazer,367.86,Cartão Crédito,2023-04-29
+357,Despesa,Lazer,1641.36,Cartão Crédito,2023-12-14
+358,Receita,Lazer,1576.96,Transferência,2023-10-11
+359,Despesa,Transporte,222.26,Transferência,2023-10-26
+360,Receita,Saúde,1910.8,Cartão Débito,2023-04-20
+361,Despesa,Saúde,316.39,Cartão Crédito,2023-10-26
+362,Receita,Transporte,681.51,Cartão Crédito,2023-04-24
+363,Receita,Educação,1591.03,Transferência,2023-03-11
+364,Despesa,Saúde,710.84,Dinheiro,2023-04-04
+365,Receita,Moradia,165.91,Cartão Débito,2023-02-10
+366,Receita,Lazer,93.83,Cartão Crédito,2023-12-07
+367,Receita,Transporte,1184.79,Cartão Crédito,2023-07-17
+368,Receita,Educação,1513.39,Dinheiro,2023-05-02
+369,Despesa,Saúde,1709.16,Dinheiro,2023-11-07
+370,Despesa,Moradia,1674.94,Transferência,2023-08-27
+371,Despesa,Lazer,715.4,Cartão Crédito,2023-09-11
+372,Receita,Lazer,742.75,Transferência,2023-06-25
+373,Receita,Lazer,1913.45,Cartão Crédito,2023-05-11
+374,Despesa,Alimentação,1093.51,Transferência,2023-05-02
+375,Despesa,Alimentação,846.49,Transferência,2023-08-04
+376,Receita,Educação,428.35,Cartão Crédito,2023-04-15
+377,Despesa,Saúde,1335.99,Cartão Débito,2023-10-15
+378,Despesa,Educação,1350.68,Cartão Crédito,2023-08-25
+379,Receita,Saúde,472.64,Dinheiro,2023-07-06
+380,Despesa,Alimentação,824.14,Cartão Débito,2023-02-19
+381,Receita,Alimentação,232.98,Cartão Débito,2023-07-12
+382,Receita,Lazer,398.34,Dinheiro,2023-03-01
+383,Despesa,Educação,1234.89,Cartão Débito,2023-12-30
+384,Despesa,Moradia,164.06,Cartão Débito,2023-12-03
+385,Despesa,Educação,1277.81,Transferência,2023-07-24
+386,Receita,Moradia,1655.81,Cartão Crédito,2023-11-24
+387,Receita,Moradia,1806.61,Cartão Débito,2023-10-31
+388,Receita,Lazer,1828.13,Dinheiro,2023-03-28
+389,Receita,Saúde,1348.4,Cartão Débito,2023-05-04
+390,Receita,Alimentação,1341.62,Dinheiro,2023-06-12
+391,Despesa,Alimentação,1555.13,Cartão Débito,2023-01-09
+392,Despesa,Transporte,636.26,Cartão Débito,2023-03-01
+393,Despesa,Lazer,1136.18,Transferência,2023-01-10
+394,Receita,Saúde,965.36,Transferência,2023-06-21
+395,Despesa,Saúde,1406.67,Transferência,2023-07-13
+396,Despesa,Educação,1825.39,Transferência,2023-09-12
+397,Receita,Saúde,1268.22,Cartão Crédito,2023-05-24
+398,Receita,Saúde,706.37,Transferência,2023-09-22
+399,Receita,Saúde,1761.65,Cartão Crédito,2023-06-22
+400,Despesa,Lazer,1521.91,Dinheiro,2023-03-30
+401,Receita,Saúde,1613.41,Cartão Débito,2023-07-18
+402,Despesa,Moradia,708.59,Transferência,2023-10-05
+403,Despesa,Saúde,116.39,Cartão Crédito,2023-12-22
+404,Receita,Saúde,127.26,Dinheiro,2023-10-30
+405,Despesa,Transporte,1045.69,Cartão Crédito,2023-01-29
+406,Receita,Alimentação,626.22,Cartão Débito,2023-10-05
+407,Despesa,Saúde,1691.25,Dinheiro,2023-04-09
+408,Despesa,Alimentação,1567.18,Transferência,2023-10-15
+409,Despesa,Transporte,89.84,Transferência,2023-12-22
+410,Despesa,Alimentação,1686.08,Dinheiro,2023-07-26
+411,Receita,Educação,16.33,Dinheiro,2023-12-17
+412,Receita,Moradia,1820.61,Cartão Débito,2023-04-27
+413,Despesa,Transporte,347.51,Cartão Débito,2023-03-28
+414,Despesa,Transporte,728.9,Dinheiro,2023-02-22
+415,Receita,Moradia,506.73,Transferência,2023-03-25
+416,Receita,Educação,1804.74,Transferência,2023-04-23
+417,Despesa,Educação,1083.69,Dinheiro,2023-10-12
+418,Despesa,Saúde,570.64,Cartão Crédito,2023-10-12
+419,Despesa,Saúde,943.79,Cartão Débito,2023-05-23
+420,Despesa,Saúde,1008.99,Cartão Débito,2023-01-16
+421,Receita,Saúde,1829.62,Transferência,2023-06-28
+422,Despesa,Lazer,1127.09,Cartão Crédito,2023-08-01
+423,Despesa,Transporte,1271.59,Transferência,2023-08-19
+424,Despesa,Transporte,601.04,Transferência,2023-07-25
+425,Despesa,Transporte,443.73,Transferência,2023-02-03
+426,Receita,Lazer,1560.35,Cartão Crédito,2023-04-05
+427,Receita,Transporte,1702.35,Transferência,2023-10-24
+428,Despesa,Moradia,12.49,Dinheiro,2023-06-09
+429,Receita,Alimentação,514.17,Transferência,2023-08-30
+430,Despesa,Saúde,1988.84,Transferência,2023-05-23
+431,Despesa,Alimentação,299.05,Cartão Débito,2023-05-31
+432,Receita,Lazer,1410.49,Transferência,2023-04-19
+433,Receita,Moradia,1650.72,Cartão Débito,2023-10-15
+434,Receita,Alimentação,1660.56,Dinheiro,2023-11-01
+435,Despesa,Alimentação,1091.44,Cartão Débito,2023-04-10
+436,Receita,Alimentação,976.07,Dinheiro,2023-04-16
+437,Receita,Educação,493.6,Cartão Crédito,2023-07-23
+438,Receita,Alimentação,1851.52,Transferência,2023-02-05
+439,Despesa,Lazer,917.39,Cartão Débito,2023-03-07
+440,Receita,Transporte,15.51,Cartão Débito,2023-11-11
+441,Despesa,Transporte,372.61,Transferência,2023-01-12
+442,Despesa,Alimentação,417.52,Cartão Débito,2023-01-29
+443,Receita,Lazer,353.09,Dinheiro,2023-06-29
+444,Despesa,Alimentação,1419.09,Cartão Débito,2023-08-16
+445,Despesa,Lazer,1883.28,Cartão Crédito,2023-07-24
+446,Receita,Lazer,1659.16,Cartão Débito,2023-02-10
+447,Despesa,Transporte,1105.38,Dinheiro,2023-10-22
+448,Despesa,Saúde,472.21,Transferência,2023-03-09
+449,Despesa,Saúde,1067.68,Cartão Débito,2023-01-15
+450,Despesa,Lazer,486.97,Transferência,2023-01-24
+451,Receita,Lazer,795.12,Dinheiro,2023-05-11
+452,Despesa,Transporte,1134.71,Transferência,2023-08-31
+453,Despesa,Educação,1997.46,Transferência,2023-01-31
+454,Receita,Transporte,1820.23,Cartão Débito,2023-01-15
+455,Despesa,Saúde,1104.78,Transferência,2023-01-17
+456,Despesa,Educação,1997.13,Transferência,2023-06-27
+457,Despesa,Saúde,1069.28,Cartão Débito,2023-07-25
+458,Receita,Alimentação,819.2,Transferência,2023-03-10
+459,Receita,Alimentação,760.62,Dinheiro,2023-05-12
+460,Despesa,Transporte,1880.78,Transferência,2023-05-16
+461,Receita,Transporte,303.55,Cartão Débito,2023-05-13
+462,Receita,Lazer,1784.27,Transferência,2023-04-19
+463,Receita,Lazer,778.78,Cartão Débito,2023-02-18
+464,Despesa,Alimentação,579.9,Dinheiro,2023-01-02
+465,Despesa,Transporte,437.79,Cartão Crédito,2023-02-05
+466,Despesa,Alimentação,510.19,Transferência,2023-12-27
+467,Despesa,Alimentação,1906.75,Cartão Crédito,2023-04-25
+468,Despesa,Educação,1190.21,Cartão Débito,2023-07-30
+469,Despesa,Moradia,420.09,Transferência,2023-09-30
+470,Despesa,Educação,1460.59,Cartão Débito,2023-09-17
+471,Receita,Alimentação,109.65,Cartão Débito,2023-01-14
+472,Despesa,Saúde,1945.63,Cartão Crédito,2023-10-30
+473,Despesa,Transporte,203.65,Cartão Crédito,2023-09-26
+474,Receita,Transporte,1392.41,Transferência,2023-12-11
+475,Despesa,Alimentação,1987.03,Cartão Débito,2023-04-19
+476,Despesa,Moradia,1358.16,Cartão Débito,2023-08-22
+477,Receita,Transporte,848.14,Transferência,2023-08-04
+478,Receita,Lazer,186.78,Cartão Débito,2023-07-26
+479,Receita,Lazer,508.4,Cartão Débito,2023-05-06
+480,Receita,Saúde,657.75,Cartão Débito,2023-02-02
+481,Despesa,Educação,1636.75,Dinheiro,2023-04-01
+482,Despesa,Transporte,613.83,Transferência,2023-10-11
+483,Receita,Saúde,327.27,Dinheiro,2023-01-15
+484,Receita,Lazer,692.1,Cartão Débito,2023-09-28
+485,Receita,Saúde,1701.8,Cartão Crédito,2023-02-18
+486,Despesa,Saúde,1615.01,Transferência,2023-01-10
+487,Receita,Moradia,1055.9,Dinheiro,2023-08-15
+488,Receita,Lazer,871.02,Transferência,2023-06-25
+489,Despesa,Educação,991.59,Cartão Débito,2023-11-06
+490,Receita,Transporte,415.24,Dinheiro,2023-04-18
+491,Despesa,Alimentação,518.84,Dinheiro,2023-10-06
+492,Receita,Saúde,1838.55,Transferência,2023-08-12
+493,Receita,Lazer,81.37,Dinheiro,2023-04-06
+494,Despesa,Transporte,237.02,Transferência,2023-08-22
+495,Receita,Alimentação,1814.18,Cartão Crédito,2023-04-26
+496,Receita,Transporte,1484.27,Cartão Débito,2023-03-03
+497,Receita,Moradia,1499.04,Transferência,2023-03-21
+498,Receita,Educação,997.95,Transferência,2023-02-22
+499,Receita,Saúde,571.15,Cartão Débito,2023-10-16
+500,Despesa,Educação,653.33,Cartão Crédito,2023-06-19
